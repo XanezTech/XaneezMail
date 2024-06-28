@@ -1,0 +1,19 @@
+{
+  "name": "xaneezmail",
+  "version": "1.0.0",
+  "description": "New mail on Discord",
+  "main": "src/client/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minio",
+    "mongodb",
+    "discordjs"
+  ],
+  "author": "\"Samuel Tdm\"",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
